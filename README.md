@@ -1,6 +1,5 @@
 # Subsence_API
 Unofficial Python API for Subscene subtitle database.
-Created by a beginner of python programmer
 
 #Usage
 1. Download the repo as zip:
